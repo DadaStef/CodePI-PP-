@@ -5,4 +5,6 @@ function pozdrav(){
     echo "$hello";
 }
 pozdrav();
+echo "test pull requesta";
 ?>
+
