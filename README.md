@@ -1,3 +1,4 @@
+<?php
 $hello = "Pozdrav svima!"
 
 function pozdrav(){
